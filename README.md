@@ -9,17 +9,17 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ## step1:
-read the elements of the augmented matrix into a and b
+Read the elements of the augmented matrix into a and b
 ## step2:
-calculate elements of L and U
+Calculate elements of L and U
 ## step3:
-print Land U matrix
+Print Land U matrix
 ## step4:
-find V by solving LV = B by forwrd substitution
+Find V by solving LV = B by forwrd substitution
 ## step5:
-find X by solving UX = V by backward substitution
+Find X by solving UX = V by backward substitution
 ## step6:
-print array X as the solution
+Print array X as the solution
 
 ## Program:
 (i) To find the L and U matrix
