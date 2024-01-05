@@ -22,7 +22,7 @@ Find X by solving UX = V by backward substitution
 Print array X as the solution
 
 ## Program:
-(i) To find the L and U matrix
+## (i) To find the L and U matrix
 ```
 /*
 Program to find the L and U matrix.
@@ -37,7 +37,7 @@ print(L)
 print(U)
 */
 ```
-(ii) To find the LU Decomposition of a matrix
+## (ii) To find the LU Decomposition of a matrix
 ```
 /*
 Program to find the LU Decomposition of a matrix.
@@ -56,9 +56,9 @@ print(solution)
 ```
 
 ## Output:
-(i) To find the L and U matrix
+## (i) To find the L and U matrix
 ![Screenshot 2023-12-28 183840](https://github.com/MOHAMEDAAKIFASRAR/LU-Decomposition/assets/148514683/d993710d-b456-41d6-8bf3-878183c8ff9a)
-(ii) To find the LU Decomposition of a matrix
+## (ii) To find the LU Decomposition of a matrix
 ![Screenshot 2023-12-28 183856](https://github.com/MOHAMEDAAKIFASRAR/LU-Decomposition/assets/148514683/765b92aa-01b7-4184-97b7-3af1f01173c5)
 
 
